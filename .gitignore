@@ -5,6 +5,6 @@ __pycache__/
 venv/
 
 db.sqlite3
-.DB_Store
+.DS_Store
 
 .vscode/
